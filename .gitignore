@@ -1,0 +1,21 @@
+### Binaries and artifacts ###
+*.jar
+*.war
+*.ear
+
+
+### Gradle files ###
+**/.gradle/
+**/build/
+
+
+### IntelliJ IDEA files ###
+**/out/
+**/.idea/
+*.iws
+*.ipr
+*.iml
+
+
+### Application logs ###
+/logs
